@@ -1,0 +1,4 @@
+%dir /usr/lib/debug
+%dir /usr/lib/debug/usr
+%dir /usr/lib/debug/usr/sbin
+/usr/lib/debug/usr/sbin/ethtool-5.13-1.el8.x86_64.debug
