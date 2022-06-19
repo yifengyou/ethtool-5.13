@@ -53,3 +53,4 @@ dkms.conf
 SRPMS/*
 RPMS/*
 BUILDROOT/*
+.idea

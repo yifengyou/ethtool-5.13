@@ -1,0 +1,1172 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/tunnels.o",
+            "netlink/tunnels.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/tunnels.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "tse.o",
+            "tse.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "tse.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "de2104x.o",
+            "de2104x.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "de2104x.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "igb.o",
+            "igb.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "igb.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "igc.o",
+            "igc.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "igc.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/settings.o",
+            "netlink/settings.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/settings.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "dsa.o",
+            "dsa.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "dsa.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "e100.o",
+            "e100.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "e100.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "fec_8xx.o",
+            "fec_8xx.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "fec_8xx.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "fjes.o",
+            "fjes.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "fjes.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "pcnet32.o",
+            "pcnet32.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "pcnet32.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "tg3.o",
+            "tg3.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "tg3.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "smsc911x.o",
+            "smsc911x.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "smsc911x.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "ixgb.o",
+            "ixgb.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "ixgb.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/rings.o",
+            "netlink/rings.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/rings.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/prettymsg.o",
+            "netlink/prettymsg.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/prettymsg.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "rxclass.o",
+            "rxclass.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "rxclass.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "natsemi.o",
+            "natsemi.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "natsemi.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "sfc.o",
+            "sfc.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "sfc.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "stmmac.o",
+            "stmmac.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "stmmac.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "sfpdiag.o",
+            "sfpdiag.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "sfpdiag.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/netlink.o",
+            "netlink/netlink.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/netlink.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/strset.o",
+            "netlink/strset.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/strset.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "et131x.o",
+            "et131x.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "et131x.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/bitset.o",
+            "netlink/bitset.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/bitset.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/features.o",
+            "netlink/features.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/features.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/eee.o",
+            "netlink/eee.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/eee.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "at76c50x-usb.o",
+            "at76c50x-usb.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "at76c50x-usb.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/desc-genlctrl.o",
+            "netlink/desc-genlctrl.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/desc-genlctrl.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "cmis.o",
+            "cmis.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "cmis.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/tsinfo.o",
+            "netlink/tsinfo.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/tsinfo.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "amd8111e.o",
+            "amd8111e.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "amd8111e.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "bnxt.o",
+            "bnxt.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "bnxt.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "ethtool.o",
+            "ethtool.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "ethtool.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "ixgbe.o",
+            "ixgbe.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "ixgbe.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "sff-common.o",
+            "sff-common.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "sff-common.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "ixgbevf.o",
+            "ixgbevf.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "ixgbevf.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/pause.o",
+            "netlink/pause.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/pause.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "vmxnet3.o",
+            "vmxnet3.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "vmxnet3.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/desc-ethtool.o",
+            "netlink/desc-ethtool.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/desc-ethtool.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "lan78xx.o",
+            "lan78xx.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "lan78xx.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/desc-rtnl.o",
+            "netlink/desc-rtnl.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/desc-rtnl.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "sfpid.o",
+            "sfpid.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "sfpid.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/coalesce.o",
+            "netlink/coalesce.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/coalesce.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/nlsock.o",
+            "netlink/nlsock.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/nlsock.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/cable_test.o",
+            "netlink/cable_test.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/cable_test.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "qsfp.o",
+            "qsfp.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "qsfp.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "ibm_emac.o",
+            "ibm_emac.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "ibm_emac.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/fec.o",
+            "netlink/fec.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/fec.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/stats.o",
+            "netlink/stats.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/stats.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/parser.o",
+            "netlink/parser.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/parser.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "json_print.o",
+            "json_print.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "json_print.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "json_writer.o",
+            "json_writer.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "json_writer.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "vioc.o",
+            "vioc.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "vioc.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/msgbuff.o",
+            "netlink/msgbuff.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/msgbuff.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "realtek.o",
+            "realtek.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "realtek.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/permaddr.o",
+            "netlink/permaddr.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/permaddr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/channels.o",
+            "netlink/channels.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/channels.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/module-eeprom.o",
+            "netlink/module-eeprom.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/module-eeprom.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/privflags.o",
+            "netlink/privflags.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/privflags.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "common.o",
+            "common.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "common.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "fec.o",
+            "fec.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "fec.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "marvell.o",
+            "marvell.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "marvell.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "netlink/monitor.o",
+            "netlink/monitor.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "netlink/monitor.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I./uapi",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-O2",
+            "-o",
+            "e1000.o",
+            "e1000.c"
+        ],
+        "directory": "/data/ethtool-5.13.git/BUILD/ethtool-5.13",
+        "file": "e1000.c"
+    }
+]
